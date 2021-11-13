@@ -1,0 +1,5 @@
+- 👋 Hi, I’m **@webcooltz**
+- 👀 I’m interested in ... **coding, games, music, sports, changing the world**
+- 🌱 I’m currently learning ... **Android/Kotlin, Java, Python, [creative coding](https://en.wikipedia.org/wiki/Creative_coding#:~:text=Creative%20coding%20is%20a%20type,expressive%20instead%20of%20something%20functional.)**
+- 💞️ I’m looking to collaborate on ... **open source apps for Android and other projects**
+- 📫 How to reach me ... **whateverwarriors@gmail.com**
