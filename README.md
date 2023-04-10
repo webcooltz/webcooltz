@@ -1,20 +1,21 @@
 # 👋 Hi, I’m **webcooltz** #
 
 ## About Me ##
-  - **Bachelor's of science** in computer information technology 📜
-  - **Software developer** (Angular/Node.js) 👨🏻‍💻
+  - **Bachelor's of science** in Computer Information Technology 📜
+  - **Associate of Applied Science** in Software Development 👨🏻‍💻
+  - **Software developer** (Full-stack Web) 🕸️
 
 
 ## Ambitions ##
 
-  - Master's of science 📜
-  - Learn to be fluent in:
-      - Python 🐍, Mobile dev 🍎🤖, Game dev 🎮
+  - Master's Degree 📜
+  - Learn to improve:
+      - AI/Python 🐍, Game Development 🎮
   - Change the world 🌎
   
   
 ## Interests ##
   - 👀 Hobbies: **Coding, games, music, sports, saving the world**
-  - 🌱 Currently learning: **All things JavaScript**
-  - 💞️ Projects: **Open source apps for Android and other projects**
+  - 🌱 Currently learning: **All things JavaScript, Python, and Unity**
+  - 💞️ Projects: **Open source apps, full-stack web apps, games**
   - 📫 Email: **webcooltz@duck.com**
