@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **webcooltz** #
 
 ## About Me ##
-  - **Bachelor's of science** in Computer Information Technology 📜
+  - **Bachelor's of Science** in Computer Information Technology 📜
   - **Associate of Applied Science** in Software Development 👨🏻‍💻
   - **Software developer** (Full-stack Web) 🕸️
 
@@ -16,6 +16,6 @@
   
 ## Interests ##
   - 👀 Hobbies: **Coding, games, music, sports, saving the world**
-  - 🌱 Currently learning: **All things JavaScript, Python, and Unity**
-  - 💞️ Projects: **Open source apps, full-stack web apps, games**
+  - 🌱 Currently learning: **JS (React, Stencil), Python, and Unity**
+  - 💞️ Projects: **Full-stack web apps, open source apps, games**
   - 📫 Email: **webcooltz@duck.com**
