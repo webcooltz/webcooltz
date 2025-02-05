@@ -1,10 +1,10 @@
 # 👋 Hi, I’m **webcooltz** #
 
 ## About Me ##
+  - **Full-Stack Software Developer** (JS/TS, C#) 🕸️
   - **Master of Science** in Information Technology Management 📜📡
   - **Bachelor of Science** in Computer Information Technology 📃⚙️
   - **Associate of Applied Science** in Software Development 📄👨🏻‍💻
-  - **Software developer** (Full-stack Web) 🕸️
 
 
 ## Ambitions ##
