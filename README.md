@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **webcooltz** #
 
 ## About Me ##
-  - **Master of Science** in Informatioon Technology Management 📜📡
+  - **Master of Science** in Information Technology Management 📜📡
   - **Bachelor of Science** in Computer Information Technology 📃⚙️
   - **Associate of Applied Science** in Software Development 📄👨🏻‍💻
   - **Software developer** (Full-stack Web) 🕸️
