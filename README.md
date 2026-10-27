@@ -1,19 +1,16 @@
 # 👋 Hi, I’m **Tyler** #
 
 ## About Me ##
-  - **Full-Stack Software Developer** (JS/TS, C#) 🕸️
+  - **Founder**: [AltaLumen Solutions](https://altalumensolutions.com)
+  - **Full-Stack Software Developer** 🕸️
   - **Master of Science** in Information Technology Management 📜📡
   - **Bachelor of Science** in Computer Information Technology 📃⚙️
   - **Associate of Applied Science** in Software Development 📄👨🏻‍💻
 
-
 ## Ambitions ##
-  - Learn/Improve:
-      - AI/Python 🐍, Game Development 🎮
   - Change the world 🌎
   
 ## Interests ##
-  - 👀 Hobbies: **Coding, games, music, sports, saving the world**
-  - 🌱 Currently learning: **Python, Unity, C#**
-  - 💞️ Projects: **Full-stack web apps, open source apps, games**
+  - 👀 Hobbies: **Games, music, sports, creating**
+  - 🌱 Currently working on: **Lumen Studios (performance/recording audio app), Circuitry (pipe puzzle game)**
   - 📫 Email: **webcooltz@duck.com**
